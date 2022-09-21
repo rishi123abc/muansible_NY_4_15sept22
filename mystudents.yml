@@ -1,0 +1,15 @@
+---
+- mystudents: 
+ - name: Anil
+ phno: 830819057781
+ add: 
+ doreno: 1
+ street: Vrindavan Colony
+ Pincode: 411028
+
+ - name:
+ phno: 089686541
+ add:
+ doreno: 2
+ street: Vrindavan colony
+ pincode: 411028
